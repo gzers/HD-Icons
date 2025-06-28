@@ -519,6 +519,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Chrome_extension_store_A.png"
         },
         {
+            "name": "Cisco_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cisco_A.png"
+        },
+        {
             "name": "Clamav_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Clamav_A.png"
         },
@@ -1559,6 +1563,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Hulu_A.png"
         },
         {
+            "name": "Huntarr_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Huntarr_A.png"
+        },
+        {
             "name": "Iceberg_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Iceberg_A.png"
         },
@@ -2307,6 +2315,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/N8n_C.png"
         },
         {
+            "name": "Namecheap-ddns-updater_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Namecheap-ddns-updater_A.png"
+        },
+        {
             "name": "Nascab_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nascab_A.png"
         },
@@ -2519,6 +2531,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Omnivore_B.png"
         },
         {
+            "name": "One-kvm_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/One-kvm_A.png"
+        },
+        {
             "name": "Onedev_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Onedev_A.png"
         },
@@ -2553,6 +2569,10 @@
         {
             "name": "Open-webui_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Open-webui_A.png"
+        },
+        {
+            "name": "Openlist_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Openlist_A.png"
         },
         {
             "name": "Opentofu_A",
@@ -2649,6 +2669,10 @@
         {
             "name": "Palworld_F",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Palworld_F.png"
+        },
+        {
+            "name": "Paperless_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Paperless_A.png"
         },
         {
             "name": "Paramount+_A",
@@ -3223,6 +3247,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Sftpgo_B.png"
         },
         {
+            "name": "Shadcn-ui_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Shadcn-ui_A.png"
+        },
+        {
             "name": "Shadowrocket_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Shadowrocket_A.png"
         },
@@ -3487,6 +3515,14 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tandoor_A.png"
         },
         {
+            "name": "Taosync_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Taosync_A.png"
+        },
+        {
+            "name": "Taosync_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Taosync_B.png"
+        },
+        {
             "name": "Tasmoadmin_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tasmoadmin_A.png"
         },
@@ -3719,6 +3755,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ubuntu_D.png"
         },
         {
+            "name": "Ugos-pro_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ugos-pro_A.png"
+        },
+        {
             "name": "Unbalance_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Unbalance_A.png"
         },
@@ -3859,6 +3899,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Vscodium_B.png"
         },
         {
+            "name": "Vuetify_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Vuetify_A.png"
+        },
+        {
             "name": "Waline_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Waline_A.png"
         },
@@ -3925,6 +3969,10 @@
         {
             "name": "Wechat_B",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wechat_B.png"
+        },
+        {
+            "name": "Weclone_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Weclone_A.png"
         },
         {
             "name": "Wecom_A",
@@ -4301,6 +4349,10 @@
         {
             "name": "Homer_A-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Homer_A.png"
+        },
+        {
+            "name": "Huntarr_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Huntarr_A.png"
         },
         {
             "name": "Iceberg_A-1",
