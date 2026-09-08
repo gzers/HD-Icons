@@ -12,7 +12,7 @@
 [![Last commit](https://img.shields.io/github/last-commit/xushier/HD-Icons?style=flat-square&color=6c5ce7)](https://github.com/xushier/HD-Icons/commits/main)
 [![jsDelivr hits](https://data.jsdelivr.com/v1/package/gh/xushier/HD-Icons/badge?style=rounded)](https://www.jsdelivr.com/package/gh/xushier/HD-Icons)
 
-**共 <!--ICONS:total-->1811<!--/ICONS:total--> 个图标，持续更新中**
+**共 <!--ICONS:total-->1813<!--/ICONS:total--> 个图标，持续更新中**
 </div>
 
 ---
@@ -28,7 +28,7 @@
 
 | 风格 | 目录 | 数量 |
 |------|------|------|
-| 📦 圆角矩形 | `border-radius/` | <!--ICONS:radius-->1083<!--/ICONS:radius--> |
+| 📦 圆角矩形 | `border-radius/` | <!--ICONS:radius-->1085<!--/ICONS:radius--> |
 | ⭕ 圆形 | `circle/` | <!--ICONS:circle-->124<!--/ICONS:circle--> |
 | 🎨 SVG 矢量 | `svg/` | <!--ICONS:svg-->604<!--/ICONS:svg--> |
 
@@ -85,7 +85,7 @@ https://raw.githubusercontent.com/xushier/HD-Icons/main/icons.json
 ## 🖼️ 图标预览
 
 <details open>
-<summary>📦 圆角矩形（<!--ICONS:radius-->1083<!--/ICONS:radius-->）</summary>
+<summary>📦 圆角矩形（<!--ICONS:radius-->1085<!--/ICONS:radius-->）</summary>
 <div align="center">
   <img src="_icons-radius.jpg" alt="圆角矩形图标预览" width="90%">
 </div>

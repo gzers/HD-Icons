@@ -1,8 +1,8 @@
 {
     "name": "小迪的HD-Icons",
-    "description": "当前数量：1811，更新于：2026-09-01 02:49:31。不定期更新，有需求欢迎提交：github.com/xushier/HD-Icons",
-    "total_count": 1811,
-    "update_at": "2026-09-01 02:49:31",
+    "description": "当前数量：1813，更新于：2026-09-08 16:06:01。不定期更新，有需求欢迎提交：github.com/xushier/HD-Icons",
+    "total_count": 1813,
+    "update_at": "2026-09-08 16:06:01",
     "icons": [
         {
             "name": "115-drive-1",
@@ -55,6 +55,14 @@
         {
             "name": "9kuai-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/9kuai-1.png"
+        },
+        {
+            "name": "MakeMKV_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/MakeMKV_A.png"
+        },
+        {
+            "name": "Xiaoya_Keeper_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Xiaoya_Keeper_A.png"
         },
         {
             "name": "actual-1",
